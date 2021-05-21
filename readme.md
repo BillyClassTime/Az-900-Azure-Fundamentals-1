@@ -9,7 +9,9 @@
 #### Módulo 02:            
 
 01 - Crear una máquina virtual en el portal (10 min) [ES](Instructions_ES/Walkthroughs/01-Create a virtual machine.md) [EN](Instructions_EN/Walkthroughs/01-Create a virtual machine.md) 
+
 02 - Crear una aplicación web (10 min) [ES](Instructions_ES/Walkthroughs/02-Create a Web App.md) [EN](Instructions_EN/Walkthroughs/02-Create a Web App.md) 
+
 03 - Implementar Azure Container Instances  (10 min) [ES](Instructions_ES/Walkthroughs/03-Deploy Azure Container Instances.md) [EN](Instructions_EN/Walkthroughs/03-Deploy Azure Container Instances.md)    
 04 - Crear una red virtual  (20 min) [ES](Instructions_ES/Walkthroughs/04-Create a virtual network.md) [EN](Instructions_EN/Walkthroughs/04-Create a virtual network.md)           
 05 - Creación de almacenamiento de blobs  (5 min) [ES](Instructions_ES/Walkthroughs/05-Create Blob storage.md) [EN](Instructions_EN/Walkthroughs/05-Create Blob storage.md)
