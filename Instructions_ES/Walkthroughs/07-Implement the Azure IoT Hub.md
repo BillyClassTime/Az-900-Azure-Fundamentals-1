@@ -71,14 +71,18 @@ En esta tarea probaremos nuestro dispositivo usando el simulador de Raspberry Pi
 
 	![Captura de pantalla de la consola del simulador Raspberry Pi.  La salida de la consola muestra los datos y mensajes del sensor enviados desde el simulador de Raspberry Pi a Azure IoT Hub.](../images/0605.png)
 
-5. Haga clic en **Detener** para dejar de enviar datos.
+5. Regrese al Azure Portal y a su centro de IoT.
 
-6. Regrese al Azure Portal y a su centro de IoT.
-
-7. Cambie la hoja de **Información general** del centro de IoT y desplácese hacia abajo hasta la información de **Utilización del centro de IoT**.
+6. Cambie la hoja de **Información general** del centro de IoT y desplácese hacia abajo hasta la información de **Utilización del centro de IoT**.
 
 	![Captura de pantalla de las métricas dentro del área de utilización del centro de IoT de Azure Portal.](../images/0606.png)
+	
+7. Desde Cloud Shell revise los mensajes que recibe el cnetro de IoT
+	```
+	az iot hub monitor-events --hub-name my-hub-groupxxxx --device-id myRaspberryPi	
+	```
 
+8. Regrese al simulador y haga click en **Detener**
 
 ¡Enhorabuena! Ha configurado Azure IoT Hub para recopilar datos del sensor de un dispositivo IoT.
 
