@@ -109,3 +109,5 @@ In this task, we will allow log into one VM and ping the other.
 Congratulations! You have configured and deployed two virtual machines in a virtual network. And you have tested that you can communicate between the two VMs. 
 
 **Note**: To avoid additional costs, you can remove this resource group. Search for resource groups, click your resource group, and then click **Delete resource group**. Verify the name of the resource group and then click **Delete**. Monitor the **Notifications** to see how the delete is proceeding.
+
+WARNING!!! COMPLETE THE LAB ...
