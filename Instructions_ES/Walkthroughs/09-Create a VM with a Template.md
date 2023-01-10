@@ -11,7 +11,7 @@ En este tutorial implementaremos una máquina virtual con una plantilla de inici
 
 En esta tarea, examinaremos la galería Azure QuickStart e implementaremos una plantilla que crea una máquina virtual. 
 
-1. En el explorador, acceda a [Galería de plantillas de Azure Quickstart](https://azure.microsoft.com/resources/templates?azure-portal=true). En la galería encontrará una serie de plantillas populares y recientemente actualizadas. Estas plantillas automatizan la implementación de los recursos de Azure, incluida la instalación de paquetes de software populares.
+1. En el explorador, acceda a [Galería de plantillas de Azure Quickstart](https://azuremarketplace.microsoft.com/es-ES/). En la galería encontrará una serie de plantillas populares y recientemente actualizadas. Estas plantillas automatizan la implementación de los recursos de Azure, incluida la instalación de paquetes de software populares.
 
 2. Explore los diferentes tipos de plantillas disponibles. 
 
