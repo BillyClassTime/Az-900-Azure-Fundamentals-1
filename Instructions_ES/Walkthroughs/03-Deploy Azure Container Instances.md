@@ -26,7 +26,7 @@ En esta tarea, crearemos una nueva instancia de contenedor para la aplicación w
 	| Región | **(EE. UU.) Este de EE. UU.** |
 	| Origen de imagen| **Docker Hub u otro registro**|
 	| Tipo de imagen| **Público**|
-	| Imagen| **microsoft / aci-helloworld**|
+	| Imagen| **mcr.microsoft.com/azuredocs/aci-helloworld**|
 	| Tipo de sistema operativo| **Linux** |
 	| Tamaño| ***Dejar en el valor predeterminado***|
 	|||
