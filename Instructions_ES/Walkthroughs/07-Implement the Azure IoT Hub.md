@@ -77,7 +77,7 @@ En esta tarea probaremos nuestro dispositivo usando el simulador de Raspberry Pi
 
 	![Captura de pantalla de las métricas dentro del área de utilización del centro de IoT de Azure Portal.](../images/0606.png)
 	
-7. Desde Cloud Shell revise los mensajes que recibe el cnetro de IoT
+7. Desde Cloud Shell revise los mensajes que recibe el centro de IoT
 	```
 	az iot hub monitor-events --hub-name my-hub-groupxxxx --device-id myRaspberryPi	
 	```
