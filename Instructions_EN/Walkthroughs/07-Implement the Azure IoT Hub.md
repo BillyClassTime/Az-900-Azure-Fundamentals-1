@@ -71,14 +71,17 @@ In this task, we will test our device using the Raspberry Pi Simulator.
 
 	![Screenshot of the Raspberry Pi simulator console.  The console output shows sensor data and messages sent from the Raspberry Pi simulator to Azure IoT Hub.](../images/0605.png)
 
-5. Click **Stop** to stop sending data.
-
 6. Return to the Azure portal and your IoT Hub.
 
-7. Switch the IoT Hub **Overview** blade and scroll down to the **IoT Hub Usage** information.
+7. On Azure Cloud Shell monitoring the message received for IoT Hub:
+	```
+	az iot hub monitor-events --hub-name my-hub-groupxxxx --device-id myRaspberryPi	
+	```
+8. Switch the IoT Hub **Overview** blade and scroll down to the **IoT Hub Usage** information.
 
 	![Screenshot of metrics within the IoT hub usage area of Azure portal.](../images/0606.png)
 
+9. Return to Raspberry Pi simulator and Click **Stop** to stop sending data.
 
 Congratulations! You have set up Azure IoT Hub to collect sensor data from an IoT device.
 
