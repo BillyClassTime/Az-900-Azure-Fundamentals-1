@@ -46,7 +46,7 @@ En esta tarea, utilizaremos PowerShell para crear un grupo de recursos y una má
     ```PowerShell
     New-AzVm `
     -ResourceGroupName "myRGPS" `
-    -Nombre "myVMPS" `
+    -Name "myVMPS" `
     -Location "East US" `
     -VirtualNetworkName "myVnetPS" `
     -SubnetName "mySubnetPS" `
