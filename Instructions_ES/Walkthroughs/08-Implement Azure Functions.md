@@ -22,10 +22,10 @@ En esta tarea, crearemos un aplicación de funciones.
     | Suscripción | el nombre de su suscripción de Azure |
     | Grupo de recursos | el nombre de un nuevo grupo de recursos **myRGFunction** |
     | Nombre de la aplicación de funciones | **función-xxxx** |
-    | Publicar | **Código** |
-    | Pila de tiempo de ejecución | **NET Core** |
-    | Versión | **3.1** |
-    | Región | **Este de EE. UU.** |
+    | Hosting plans | **Consumption** |
+    | Pila de tiempo de ejecución | **NET** |
+    | Versión | **x (LST) in-process model** |
+    | Región | **Este de EE. UU. 2 ** |
     | | |
 
     **Nota** - Recuerde cambiar **xxxx** de modo que sea un **nombre de aplicación de Functions** único
