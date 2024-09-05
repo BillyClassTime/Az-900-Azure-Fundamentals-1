@@ -30,8 +30,10 @@ En esta tarea, crearemos una nueva instancia de contenedor para la aplicación w
 	| Tipo de sistema operativo| **Linux** |
 	| Tamaño| ***Dejar en el valor predeterminado***|
 	|||
+> [!IMPORTANT]
+> En últimas versiones de Azure, deberá usar una **Quick image**
 
-4. Configure la pestaña Redes (reemplace **xxxx** con letras y dígitos para que el nombre sea globalmente único). Deje todas las demás configuraciones en sus valores predeterminados.
+5. Configure la pestaña Redes (reemplace **xxxx** con letras y dígitos para que el nombre sea globalmente único). Deje todas las demás configuraciones en sus valores predeterminados.
 
 	| Configuración| Valor|
 	|--|--|
@@ -43,13 +45,13 @@ En esta tarea, crearemos una nueva instancia de contenedor para la aplicación w
 
 	![Captura de pantalla del panel de configuración de la hoja Crear instancias de contenedor en Azure Portal, con la etiqueta de nombre DNS especificada. ](../images/0201.png)
 
-5. Haga clic en **Revisar y crear** para iniciar el proceso de validación automática.
+6. Haga clic en **Revisar y crear** para iniciar el proceso de validación automática.
 
-6. Haga clic en **Crear** para crear la instancia de contenedor. 
+7. Haga clic en **Crear** para crear la instancia de contenedor. 
 
-7. Supervise la página de implementación y la de **Notificaciones**. 
+8. Supervise la página de implementación y la de **Notificaciones**. 
 
-8. Mientras espera puede que esté interesado en ver el [código de muestra detrás de esta sencilla aplicación](https://github.com/Azure-Samples/aci-helloworld). Examine la carpeta \app. 
+9. Mientras espera puede que esté interesado en ver el [código de muestra detrás de esta sencilla aplicación](https://github.com/Azure-Samples/aci-helloworld). Examine la carpeta \app. 
 
 # Tarea 2: Compruebe la implementación de la instancia del contenedor
 
