@@ -52,7 +52,7 @@ En esta tarea, utilizaremos PowerShell para crear un grupo de recursos y una má
     -SubnetName "mySubnetPS" `
     -SecurityGroupName "myNSGPS" `
     -PublicIpAddressName "myPublicIpPS"
-    -Size "Standard_D32s_v3
+    -Size "Standard_D8s_v3
     ```
 **Espere a que la máquina virtual se implemente antes de cerrar PowerShell.** 
 
