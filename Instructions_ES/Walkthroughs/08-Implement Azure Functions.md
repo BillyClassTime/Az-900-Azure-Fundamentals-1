@@ -25,7 +25,7 @@ En esta tarea, crearemos un aplicación de funciones.
     | Hosting plans | **Consumption** |
     | Pila de tiempo de ejecución | **NET** |
     | Versión | **x (LST) in-process model** |
-    | Región | **Este de EE. UU. 2 ** |
+    | Región | **Este de EE. UU. 2** |
     | | |
 
     **Nota** - Recuerde cambiar **xxxx** de modo que sea un **nombre de aplicación de Functions** único
