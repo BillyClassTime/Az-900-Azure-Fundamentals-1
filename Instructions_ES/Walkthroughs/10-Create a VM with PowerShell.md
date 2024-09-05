@@ -52,8 +52,9 @@ En esta tarea, utilizaremos PowerShell para crear un grupo de recursos y una má
     -SubnetName "mySubnetPS" `
     -SecurityGroupName "myNSGPS" `
     -PublicIpAddressName "myPublicIpPS"
+    -Size "Standard_D32s_v3
     ```
-** Espere a que la máquina virtual se implemente antes de cerrar PowerShell.
+**Espere a que la máquina virtual se implemente antes de cerrar PowerShell.** 
 
 5. Cierre el panel de Cloud Shell de la sesión de PowerShell.
 
