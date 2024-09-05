@@ -24,8 +24,9 @@ En esta tarea crearemos una nueva cuenta de almacenamiento.
     | Nombre de la cuenta de almacenamiento | **storageaccountxxxx** |
     | Ubicación | **(EE. UU.) Este de EE. UU.**  |
     | Rendimiento | **Estándar** |
-    | Tipo de cuenta | **Almacenamiento V2 (uso general v2)** |
+    | Servicio Primario| **Azure Blob Storage or Azure Data Lake Storage Gen 2** |
     | Replicación | **Almacenamiento con redundancia local (LRS)** |
+    | Avanzado / Seguridad | **Permita el acceso anonimo sobre cada contenedor individual** |
     | | |
 
     **Nota** - Recuerde cambiar **xxxx** de modo que sea un **nombre de cuenta de almacenamiento** único
